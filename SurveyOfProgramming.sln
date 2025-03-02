@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module4", "Module4", "{57B39467-7385-41F3-AB6C-F5AAC918FB9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TodoApp", "TodoApp", "{AA7F16A6-739D-471F-989B-107CD6B89572}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp", "Module4\TodoApp\TodoApp\TodoApp.csproj", "{5D2048D2-DBFA-43B0-9500-0D4072AC9638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2048D2-DBFA-43B0-9500-0D4072AC9638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2048D2-DBFA-43B0-9500-0D4072AC9638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2048D2-DBFA-43B0-9500-0D4072AC9638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2048D2-DBFA-43B0-9500-0D4072AC9638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA7F16A6-739D-471F-989B-107CD6B89572} = {57B39467-7385-41F3-AB6C-F5AAC918FB9B}
+		{5D2048D2-DBFA-43B0-9500-0D4072AC9638} = {AA7F16A6-739D-471F-989B-107CD6B89572}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D4D87A1-3EA5-4B6B-B905-75334A0B45FB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.deps.json
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.runtimeconfig.json
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.dll
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/bin/Debug/net9.0/TodoApp.pdb
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.AssemblyInfoInputs.cache
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.AssemblyInfo.cs
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.sourcelink.json
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.dll
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/refint/TodoApp.dll
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.pdb
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/TodoApp.genruntimeconfig.cache
+/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module4/TodoApp/TodoApp/obj/Debug/net9.0/ref/TodoApp.dll
