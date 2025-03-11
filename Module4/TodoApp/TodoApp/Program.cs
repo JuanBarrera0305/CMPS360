@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Program
 {
-    static List<Task> tasks = new List<Task>();
+    static List<TodoTask> tasks = new List<TodoTask>();
     static int nextId = 1;
 
     static void Main(string[] args)
@@ -53,7 +53,7 @@ class Program
             return;
         }
 
-        Task newTask = new Task(nextId++, description);
+        TodoTask newTask = new TodoTask(nextId++, description);
         tasks.Add(newTask);
         Console.WriteLine("Task added successfully.");
         Console.ReadKey();
@@ -101,13 +101,13 @@ class Program
     }
 }
 
-public class Task
+public class TodoTask
 {
     public int Id { get; set; }
     public string Description { get; set; }
     public bool IsCompleted { get; set; }
 
-    public Task(int id, string description)
+    public TodoTask(int id, string description)
     {
         Id = id;
         Description = description;

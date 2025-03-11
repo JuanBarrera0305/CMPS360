@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpWebsiteProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+959b0a646182baf914cb451d975a892510192199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93f5a9cc61e0ac0cec7f2772b1d5cb63258950ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpWebsiteProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpWebsiteProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

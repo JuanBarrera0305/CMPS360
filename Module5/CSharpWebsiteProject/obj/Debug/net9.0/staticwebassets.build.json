@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8yJPQpTLRLJawBrgPExbbfRipG5D/tWSAFzO3PlSuOE=",
+  "Hash": "T3SYOeVekGDN3rwUZNFD8aZWJkektDKzmAKr1k2VDeg=",
   "Source": "CSharpWebsiteProject",
   "BasePath": "_content/CSharpWebsiteProject",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/1l6nmjylo1-y0stddqykk.gz",
+      "SourceId": "CSharpWebsiteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CSharpWebsiteProject",
+      "RelativePath": "css/custom#[.{fingerprint=y0stddqykk}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/custom.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4buq5a6kx4",
+      "Integrity": "EPc5X3dpfCi4KVgKVHoT96oSoD3chVohffh3OKLK/v8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/custom.css"
     },
     {
       "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/27zr9s1bhk-iovd86k7lj.gz",
@@ -248,12 +269,12 @@
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-aa3tw4af4q.gz",
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-plvejlgdww.gz",
       "SourceId": "CSharpWebsiteProject",
       "SourceType": "Computed",
       "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CSharpWebsiteProject",
-      "RelativePath": "CSharpWebsiteProject#[.{fingerprint=aa3tw4af4q}]?.styles.css.gz",
+      "RelativePath": "CSharpWebsiteProject#[.{fingerprint=plvejlgdww}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -262,8 +283,8 @@
       "RelatedAsset": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/bundle/CSharpWebsiteProject.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ceee3nfjut",
-      "Integrity": "ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=",
+      "Fingerprint": "5dtq3rxvaw",
+      "Integrity": "KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/bundle/CSharpWebsiteProject.styles.css"
@@ -479,27 +500,6 @@
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/bpml5lkgwb-5ipweew5fc.gz",
-      "SourceId": "CSharpWebsiteProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/CSharpWebsiteProject",
-      "RelativePath": "css/styles#[.{fingerprint=5ipweew5fc}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/styles.css"
-    },
-    {
       "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/dk28bryzlg-356vix0kms.gz",
       "SourceId": "CSharpWebsiteProject",
       "SourceType": "Discovered",
@@ -584,12 +584,12 @@
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-aa3tw4af4q.gz",
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-plvejlgdww.gz",
       "SourceId": "CSharpWebsiteProject",
       "SourceType": "Computed",
       "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CSharpWebsiteProject",
-      "RelativePath": "CSharpWebsiteProject#[.{fingerprint=aa3tw4af4q}]!.bundle.scp.css.gz",
+      "RelativePath": "CSharpWebsiteProject#[.{fingerprint=plvejlgdww}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -598,8 +598,8 @@
       "RelatedAsset": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/projectbundle/CSharpWebsiteProject.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ceee3nfjut",
-      "Integrity": "ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=",
+      "Fingerprint": "5dtq3rxvaw",
+      "Integrity": "KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/projectbundle/CSharpWebsiteProject.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "aa3tw4af4q",
-      "Integrity": "4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=",
+      "Fingerprint": "plvejlgdww",
+      "Integrity": "fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/bundle/CSharpWebsiteProject.styles.css"
@@ -1438,11 +1438,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "aa3tw4af4q",
-      "Integrity": "4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=",
+      "Fingerprint": "plvejlgdww",
+      "Integrity": "fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/projectbundle/CSharpWebsiteProject.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/custom.css",
+      "SourceId": "CSharpWebsiteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
+      "BasePath": "_content/CSharpWebsiteProject",
+      "RelativePath": "css/custom#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0stddqykk",
+      "Integrity": "ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/custom.css"
     },
     {
       "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/site.css",
@@ -1466,27 +1487,6 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/styles.css",
-      "SourceId": "CSharpWebsiteProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
-      "BasePath": "_content/CSharpWebsiteProject",
-      "RelativePath": "css/styles#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/styles.css"
-    },
-    {
       "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/favicon.ico",
       "SourceId": "CSharpWebsiteProject",
       "SourceType": "Discovered",
@@ -1508,12 +1508,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/about-image.jpg",
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery1.jpg",
       "SourceId": "CSharpWebsiteProject",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
       "BasePath": "_content/CSharpWebsiteProject",
-      "RelativePath": "images/about-image#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/gallery1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1522,11 +1522,116 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Fingerprint": "zr1co97bri",
+      "Integrity": "AWAXnf32+gT0fIHmPH4goeYCZ3lCVDxOq2pAHNf+mUk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/about-image.jpg"
+      "OriginalItemSpec": "wwwroot/images/gallery1.jpg"
+    },
+    {
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery2.jpg",
+      "SourceId": "CSharpWebsiteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
+      "BasePath": "_content/CSharpWebsiteProject",
+      "RelativePath": "images/gallery2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xf0c2g1y57",
+      "Integrity": "PZ+6ksyxUJgLWxL0hIaW/FN9alTyVDTWp8IsI5/Jchs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/gallery2.jpg"
+    },
+    {
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery3.jpg",
+      "SourceId": "CSharpWebsiteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
+      "BasePath": "_content/CSharpWebsiteProject",
+      "RelativePath": "images/gallery3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7rk3sordpr",
+      "Integrity": "LYhLX9qhvezYax6tlpwFxVqPCvNuMlRSkAjmYAY6sh0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/gallery3.jpg"
+    },
+    {
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery4.jpg",
+      "SourceId": "CSharpWebsiteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
+      "BasePath": "_content/CSharpWebsiteProject",
+      "RelativePath": "images/gallery4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b92d3vy5fk",
+      "Integrity": "r2t2OxreJzQ1Gx39xsc3DMi4g/Y2pucD2G1DzSLlcGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/gallery4.jpg"
+    },
+    {
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery5.jpg",
+      "SourceId": "CSharpWebsiteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
+      "BasePath": "_content/CSharpWebsiteProject",
+      "RelativePath": "images/gallery5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pz3b1sgnwc",
+      "Integrity": "9TmUV9VlXjsLtlk61TbljjenwlwIxUrAnrYPPMmUgfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/gallery5.jpg"
+    },
+    {
+      "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery6.jpg",
+      "SourceId": "CSharpWebsiteProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/",
+      "BasePath": "_content/CSharpWebsiteProject",
+      "RelativePath": "images/gallery6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "naai7tj2i2",
+      "Integrity": "n69JtlEWvgdtmIft3ehEVh2qP0fln3uHIL9rIbuI77k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/gallery6.jpg"
     },
     {
       "Identity": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/js/script.js",
@@ -2833,13 +2938,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "CSharpWebsiteProject.aa3tw4af4q.bundle.scp.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-aa3tw4af4q.gz",
+      "Route": "CSharpWebsiteProject.bundle.scp.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-plvejlgdww.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.008064516129"
         }
       ],
       "ResponseHeaders": [
@@ -2849,19 +2954,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "123"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2877,26 +2982,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
+          "Value": "W/\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "aa3tw4af4q"
-        },
-        {
-          "Name": "label",
-          "Value": "CSharpWebsiteProject.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
         }
       ]
     },
     {
-      "Route": "CSharpWebsiteProject.aa3tw4af4q.bundle.scp.css",
+      "Route": "CSharpWebsiteProject.bundle.scp.css",
       "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/projectbundle/CSharpWebsiteProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2906,7 +3003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1089"
+          "Value": "120"
         },
         {
           "Name": "Content-Type",
@@ -2914,11 +3011,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
+          "Value": "\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
+        }
+      ]
+    },
+    {
+      "Route": "CSharpWebsiteProject.bundle.scp.css.gz",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-plvejlgdww.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc="
+        }
+      ]
+    },
+    {
+      "Route": "CSharpWebsiteProject.plvejlgdww.bundle.scp.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-plvejlgdww.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008064516129"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plvejlgdww"
+        },
+        {
+          "Name": "label",
+          "Value": "CSharpWebsiteProject.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
+        }
+      ]
+    },
+    {
+      "Route": "CSharpWebsiteProject.plvejlgdww.bundle.scp.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/projectbundle/CSharpWebsiteProject.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2928,7 +3170,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aa3tw4af4q"
+          "Value": "plvejlgdww"
         },
         {
           "Name": "label",
@@ -2936,13 +3178,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
         }
       ]
     },
     {
-      "Route": "CSharpWebsiteProject.aa3tw4af4q.bundle.scp.css.gz",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-aa3tw4af4q.gz",
+      "Route": "CSharpWebsiteProject.plvejlgdww.bundle.scp.css.gz",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-plvejlgdww.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2951,7 +3193,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "123"
         },
         {
           "Name": "Content-Type",
@@ -2959,11 +3201,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,7 +3223,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aa3tw4af4q"
+          "Value": "plvejlgdww"
         },
         {
           "Name": "label",
@@ -2989,18 +3231,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54="
+          "Value": "sha256-KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc="
         }
       ]
     },
     {
-      "Route": "CSharpWebsiteProject.aa3tw4af4q.styles.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-aa3tw4af4q.gz",
+      "Route": "CSharpWebsiteProject.plvejlgdww.styles.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-plvejlgdww.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.008064516129"
         }
       ],
       "ResponseHeaders": [
@@ -3010,15 +3252,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "123"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3038,13 +3280,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
+          "Value": "W/\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aa3tw4af4q"
+          "Value": "plvejlgdww"
         },
         {
           "Name": "label",
@@ -3052,12 +3294,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
         }
       ]
     },
     {
-      "Route": "CSharpWebsiteProject.aa3tw4af4q.styles.css",
+      "Route": "CSharpWebsiteProject.plvejlgdww.styles.css",
       "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/bundle/CSharpWebsiteProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3067,7 +3309,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1089"
+          "Value": "120"
         },
         {
           "Name": "Content-Type",
@@ -3075,11 +3317,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
+          "Value": "\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3089,7 +3331,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aa3tw4af4q"
+          "Value": "plvejlgdww"
         },
         {
           "Name": "label",
@@ -3097,13 +3339,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
         }
       ]
     },
     {
-      "Route": "CSharpWebsiteProject.aa3tw4af4q.styles.css.gz",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-aa3tw4af4q.gz",
+      "Route": "CSharpWebsiteProject.plvejlgdww.styles.css.gz",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-plvejlgdww.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3112,7 +3354,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "123"
         },
         {
           "Name": "Content-Type",
@@ -3120,11 +3362,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3142,7 +3384,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aa3tw4af4q"
+          "Value": "plvejlgdww"
         },
         {
           "Name": "label",
@@ -3150,155 +3392,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54="
-        }
-      ]
-    },
-    {
-      "Route": "CSharpWebsiteProject.bundle.scp.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-aa3tw4af4q.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001848428835"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
-        }
-      ]
-    },
-    {
-      "Route": "CSharpWebsiteProject.bundle.scp.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/projectbundle/CSharpWebsiteProject.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1089"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
-        }
-      ]
-    },
-    {
-      "Route": "CSharpWebsiteProject.bundle.scp.css.gz",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/eumolp7dxf-aa3tw4af4q.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54="
+          "Value": "sha256-KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc="
         }
       ]
     },
     {
       "Route": "CSharpWebsiteProject.styles.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-aa3tw4af4q.gz",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-plvejlgdww.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001848428835"
+          "Quality": "0.008064516129"
         }
       ],
       "ResponseHeaders": [
@@ -3308,15 +3413,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "123"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3336,13 +3441,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
+          "Value": "W/\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
         }
       ]
     },
@@ -3357,7 +3462,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1089"
+          "Value": "120"
         },
         {
           "Name": "Content-Type",
@@ -3365,11 +3470,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU=\""
+          "Value": "\"fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3379,13 +3484,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4sXLMv++kGpt6dcoYyhtk3YvhAYKLhdtFaX7c8I0MzU="
+          "Value": "sha256-fT6Ltx9oDr1FJixXkjXSCftIlINf0YpSMAiJUDAYmBc="
         }
       ]
     },
     {
       "Route": "CSharpWebsiteProject.styles.css.gz",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-aa3tw4af4q.gz",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/68ln8q3ci8-plvejlgdww.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3394,7 +3499,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "540"
+          "Value": "123"
         },
         {
           "Name": "Content-Type",
@@ -3402,11 +3507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54=\""
+          "Value": "\"KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:14:14 GMT"
+          "Value": "Tue, 11 Mar 2025 11:46:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3424,7 +3529,305 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZI9On5ZFijIrSvUmpshE25wVWWjL/TinC8aK0Hpv+54="
+          "Value": "sha256-KRb0c2+ch+Z/OHC7GXwXRSLZx8i9TRKjTj7Ats1qncc="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/1l6nmjylo1-y0stddqykk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002403846154"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPc5X3dpfCi4KVgKVHoT96oSoD3chVohffh3OKLK/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 19:26:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 19:26:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css.gz",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/1l6nmjylo1-y0stddqykk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPc5X3dpfCi4KVgKVHoT96oSoD3chVohffh3OKLK/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 19:26:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EPc5X3dpfCi4KVgKVHoT96oSoD3chVohffh3OKLK/v8="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.y0stddqykk.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/1l6nmjylo1-y0stddqykk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002403846154"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPc5X3dpfCi4KVgKVHoT96oSoD3chVohffh3OKLK/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 19:26:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0stddqykk"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.y0stddqykk.css",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 19:26:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0stddqykk"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ItTcKmx4dKkhGgQWsdl1+qSZtLWwGLPHVBkrI/OTFhU="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.y0stddqykk.css.gz",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/1l6nmjylo1-y0stddqykk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPc5X3dpfCi4KVgKVHoT96oSoD3chVohffh3OKLK/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 19:26:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0stddqykk"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EPc5X3dpfCi4KVgKVHoT96oSoD3chVohffh3OKLK/v8="
         }
       ]
     },
@@ -3727,304 +4130,6 @@
       ]
     },
     {
-      "Route": "css/styles.5ipweew5fc.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/bpml5lkgwb-5ipweew5fc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "1.000000000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.5ipweew5fc.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.5ipweew5fc.css.gz",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/bpml5lkgwb-5ipweew5fc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/bpml5lkgwb-5ipweew5fc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "1.000000000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.css",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.css.gz",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/bpml5lkgwb-5ipweew5fc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/compressed/gjdmj0t93z-61n19gt1b8.gz",
       "Selectors": [
@@ -4323,8 +4428,8 @@
       ]
     },
     {
-      "Route": "images/about-image.5ipweew5fc.jpg",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/about-image.jpg",
+      "Route": "images/gallery1.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4333,7 +4438,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "0"
+          "Value": "354199"
         },
         {
           "Name": "Content-Type",
@@ -4341,56 +4446,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+          "Value": "\"AWAXnf32+gT0fIHmPH4goeYCZ3lCVDxOq2pAHNf+mUk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "images/about-image.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "images/about-image.jpg",
-      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/about-image.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 19:13:38 GMT"
+          "Value": "Mon, 13 Jan 2025 01:13:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4400,7 +4460,462 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-AWAXnf32+gT0fIHmPH4goeYCZ3lCVDxOq2pAHNf+mUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery1.zr1co97bri.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWAXnf32+gT0fIHmPH4goeYCZ3lCVDxOq2pAHNf+mUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 01:13:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zr1co97bri"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gallery1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWAXnf32+gT0fIHmPH4goeYCZ3lCVDxOq2pAHNf+mUk="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery2.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15387735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZ+6ksyxUJgLWxL0hIaW/FN9alTyVDTWp8IsI5/Jchs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Feb 2022 23:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PZ+6ksyxUJgLWxL0hIaW/FN9alTyVDTWp8IsI5/Jchs="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery2.xf0c2g1y57.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15387735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PZ+6ksyxUJgLWxL0hIaW/FN9alTyVDTWp8IsI5/Jchs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Feb 2022 23:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf0c2g1y57"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gallery2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PZ+6ksyxUJgLWxL0hIaW/FN9alTyVDTWp8IsI5/Jchs="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery3.7rk3sordpr.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5109743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYhLX9qhvezYax6tlpwFxVqPCvNuMlRSkAjmYAY6sh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Apr 2024 17:18:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rk3sordpr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gallery3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYhLX9qhvezYax6tlpwFxVqPCvNuMlRSkAjmYAY6sh0="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery3.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5109743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LYhLX9qhvezYax6tlpwFxVqPCvNuMlRSkAjmYAY6sh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Apr 2024 17:18:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LYhLX9qhvezYax6tlpwFxVqPCvNuMlRSkAjmYAY6sh0="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery4.b92d3vy5fk.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6452170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2t2OxreJzQ1Gx39xsc3DMi4g/Y2pucD2G1DzSLlcGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Dec 2023 02:20:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b92d3vy5fk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gallery4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2t2OxreJzQ1Gx39xsc3DMi4g/Y2pucD2G1DzSLlcGk="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery4.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6452170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2t2OxreJzQ1Gx39xsc3DMi4g/Y2pucD2G1DzSLlcGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Dec 2023 02:20:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2t2OxreJzQ1Gx39xsc3DMi4g/Y2pucD2G1DzSLlcGk="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery5.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9TmUV9VlXjsLtlk61TbljjenwlwIxUrAnrYPPMmUgfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 19:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9TmUV9VlXjsLtlk61TbljjenwlwIxUrAnrYPPMmUgfI="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery5.pz3b1sgnwc.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9TmUV9VlXjsLtlk61TbljjenwlwIxUrAnrYPPMmUgfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Feb 2022 19:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz3b1sgnwc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gallery5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9TmUV9VlXjsLtlk61TbljjenwlwIxUrAnrYPPMmUgfI="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery6.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11046864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n69JtlEWvgdtmIft3ehEVh2qP0fln3uHIL9rIbuI77k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 17:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n69JtlEWvgdtmIft3ehEVh2qP0fln3uHIL9rIbuI77k="
+        }
+      ]
+    },
+    {
+      "Route": "images/gallery6.naai7tj2i2.jpg",
+      "AssetFile": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11046864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n69JtlEWvgdtmIft3ehEVh2qP0fln3uHIL9rIbuI77k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 17:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "naai7tj2i2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gallery6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n69JtlEWvgdtmIft3ehEVh2qP0fln3uHIL9rIbuI77k="
         }
       ]
     },

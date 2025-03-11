@@ -2,23 +2,43 @@
   "Files": [
     {
       "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/obj/Debug/net9.0/scopedcss/projectbundle/CSharpWebsiteProject.bundle.scp.css",
-      "PackagePath": "staticwebassets/CSharpWebsiteProject.aa3tw4af4q.bundle.scp.css"
+      "PackagePath": "staticwebassets/CSharpWebsiteProject.plvejlgdww.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/custom.css",
+      "PackagePath": "staticwebassets/css/custom.css"
     },
     {
       "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/css/styles.css",
-      "PackagePath": "staticwebassets/css/styles.css"
-    },
-    {
       "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/about-image.jpg",
-      "PackagePath": "staticwebassets/images/about-image.jpg"
+      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery1.jpg",
+      "PackagePath": "staticwebassets/images/gallery1.jpg"
+    },
+    {
+      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery2.jpg",
+      "PackagePath": "staticwebassets/images/gallery2.jpg"
+    },
+    {
+      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery3.jpg",
+      "PackagePath": "staticwebassets/images/gallery3.jpg"
+    },
+    {
+      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery4.jpg",
+      "PackagePath": "staticwebassets/images/gallery4.jpg"
+    },
+    {
+      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery5.jpg",
+      "PackagePath": "staticwebassets/images/gallery5.jpg"
+    },
+    {
+      "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/images/gallery6.jpg",
+      "PackagePath": "staticwebassets/images/gallery6.jpg"
     },
     {
       "Id": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module5/CSharpWebsiteProject/wwwroot/js/script.js",
