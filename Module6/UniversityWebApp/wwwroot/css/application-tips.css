@@ -1,0 +1,46 @@
+/* application-tips.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+p, ul {
+    max-width: 800px;
+    margin: 10px auto;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #336699;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+/* Remove list-style from all unordered lists */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+li::before {
+    content: none; /* Remove any content that might be applied before the list items */
+}
+
+ul li:hover {
+    color: #0056b3;
+}

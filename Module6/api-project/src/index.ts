@@ -1,18 +1,19 @@
 import express from 'express';
 import cors from 'cors';
-import universitiesRoutes from './routes/universities.routes';  // Import the universities routes
+import universityRoutes from './routes/universities.routes'; // Adjust path if needed
 
 const app = express();
-
-// Middleware
+const PORT = process.env.PORT || 5001;
 app.use(cors());
 app.use(express.json());
 
-// Use the universities routes
-app.use('/api', universitiesRoutes);
+// Use university routes
+app.use('/api', universityRoutes);
 
-// Start the server
-const PORT = process.env.PORT || 5000;
+// Root route
+app.get('/', (req, res) => {
+    res.send('API is running on localhost:5001');
+});
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+    console.log(`Server running on http://localhost:${PORT}`);
 });

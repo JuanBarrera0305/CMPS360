@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kM2uqxFxqaw=",
+  "success": true,
+  "projectFilePath": "/Users/juanbarrera/Documents/2025/SpringSemester/SurveyOfProgramming/Module6/UniversityWebApp/UniversityWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanbarrera/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

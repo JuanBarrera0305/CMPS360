@@ -1,0 +1,85 @@
+/* applyhere.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.5rem;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.75rem;
+    margin: 20px 0;
+    color: #336699;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #34495e;
+}
+
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form .form-label {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+form .form-control {
+    margin-bottom: 15px;
+}
+
+form button {
+    display: block;
+    width: 100%;
+    background-color: #336699;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 1.1rem;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+form .form-select, form input[type="file"], form input[type="url"] {
+    font-size: 1rem;
+}
+
+form input[type="file"] {
+    padding: 8px;
+}
+
+/* Remove list-style from all unordered lists */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+li::before {
+    content: none; /* Remove any content that might be applied before the list items */
+}
+
+ul li:hover {
+    color: #0056b3;
+}

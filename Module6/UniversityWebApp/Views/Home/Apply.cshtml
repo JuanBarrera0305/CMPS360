@@ -1,0 +1,63 @@
+@{
+    ViewData["Title"] = "Apply Here";
+}
+
+<h1>Apply to Top Universities</h1>
+<p>Start your application process by filling out the form below.</p>
+
+<form>
+    <div class="mb-3">
+        <label for="name" class="form-label">Full Name</label>
+        <input type="text" class="form-control" id="name" placeholder="Your Name">
+    </div>
+    <div class="mb-3">
+        <label for="email" class="form-label">Email Address</label>
+        <input type="email" class="form-control" id="email" placeholder="you@example.com">
+    </div>
+    <div class="mb-3">
+        <label for="university" class="form-label">Preferred University</label>
+        <select class="form-select" id="university">
+            <option selected>Select University</option>
+            <option>Harvard University</option>
+            <option>Stanford University</option>
+            <option>University of California, Berkeley</option>
+            <option>Massachusetts Institute of Technology</option>
+            <option>California Institute of Technology</option>
+            <option>University of Chicago</option>
+            <option>Princeton University</option>
+            <option>Columbia University</option>
+            <option>Yale University</option>
+            <option>University of Pennsylvania</option>
+            <option>Cornell University</option>
+            <option>University of Michigan</option>
+            <option>Duke University</option>
+            <option>Northwestern University</option>
+            <option>University of California, Los Angeles</option>
+            <option>University of Virginia</option>
+            <option>Johns Hopkins University</option>
+            <option>New York University</option>
+            <option>University of Southern California</option>
+            <option>University of North Carolina at Chapel Hill</option>
+        </select>
+    </div>
+
+    <!-- Resume Upload -->
+    <div class="mb-3">
+        <label for="resume" class="form-label">Upload Your Resume</label>
+        <input type="file" class="form-control" id="resume">
+    </div>
+
+    <!-- Cover Letter Upload -->
+    <div class="mb-3">
+        <label for="coverLetter" class="form-label">Upload Your Cover Letter</label>
+        <input type="file" class="form-control" id="coverLetter">
+    </div>
+
+    <!-- LinkedIn Profile -->
+    <div class="mb-3">
+        <label for="linkedin" class="form-label">LinkedIn Profile URL</label>
+        <input type="url" class="form-control" id="linkedin" placeholder="https://www.linkedin.com/in/your-profile">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Application</button>
+</form>
