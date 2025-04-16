@@ -1,0 +1,30 @@
+[
+    {
+      "question": "What would you do on a free weekend?",
+      "options": {
+        "a": { "text": "Reading a book", "personality": "Thinker" },
+        "b": { "text": "Going to a party", "personality": "Socialite" },
+        "c": { "text": "Hiking somewhere new", "personality": "Adventurer" },
+        "d": { "text": "Building a fun project", "personality": "Innovator" }
+      }
+    },
+    {
+      "question": "You're faced with a tough problem. What's your first move?",
+      "options": {
+        "a": { "text": "Analyze it thoroughly", "personality": "Thinker" },
+        "b": { "text": "Talk to a friend about it", "personality": "Socialite" },
+        "c": { "text": "Take a break and clear your head", "personality": "Adventurer" },
+        "d": { "text": "Try something completely new", "personality": "Innovator" }
+      }
+    },
+    {
+      "question": "What’s your dream job?",
+      "options": {
+        "a": { "text": "Researcher or scientist", "personality": "Thinker" },
+        "b": { "text": "Public speaker or host", "personality": "Socialite" },
+        "c": { "text": "Travel blogger or explorer", "personality": "Adventurer" },
+        "d": { "text": "Startup founder", "personality": "Innovator" }
+      }
+    }
+  ]
+  
