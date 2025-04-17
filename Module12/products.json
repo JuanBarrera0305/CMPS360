@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": "$10.99",
+    "isbn": "ISBN: 9780743273565",
+    "rating": "4.5",
+    "publisher": "Scribner",
+    "pages": "180",
+    "language": "English",
+    "stock": "In Stock",
+    "description": "Classic novel set in the Jazz Age."
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "price": "$29.99",
+    "isbn": "ISBN: 9780066238500",
+    "rating": "4.7",
+    "publisher": "HarperCollins",
+    "pages": "768",
+    "language": "English",
+    "stock": "In Stock",
+    "description": "A fantasy series that transports readers to the magical world of Narnia."
+  }
+]

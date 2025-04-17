@@ -25,6 +25,70 @@
         "c": { "text": "Travel blogger or explorer", "personality": "Adventurer" },
         "d": { "text": "Startup founder", "personality": "Innovator" }
       }
-    }
+    },
+    {
+        "question": "What kind of movies do you prefer?",
+        "options": {
+          "a": { "text": "Mind-bending thrillers", "personality": "Thinker" },
+          "b": { "text": "Romantic comedies", "personality": "Socialite" },
+          "c": { "text": "Action-packed adventures", "personality": "Adventurer" },
+          "d": { "text": "Sci-fi or futuristic tech films", "personality": "Innovator" }
+        }
+      },
+      {
+        "question": "How do you usually make decisions?",
+        "options": {
+          "a": { "text": "Based on logic and facts", "personality": "Thinker" },
+          "b": { "text": "Ask for others' opinions", "personality": "Socialite" },
+          "c": { "text": "Go with your gut feeling", "personality": "Adventurer" },
+          "d": { "text": "Look for a creative solution", "personality": "Innovator" }
+        }
+      },
+      {
+        "question": "How would friends describe you?",
+        "options": {
+          "a": { "text": "Smart and thoughtful", "personality": "Thinker" },
+          "b": { "text": "Friendly and outgoing", "personality": "Socialite" },
+          "c": { "text": "Brave and spontaneous", "personality": "Adventurer" },
+          "d": { "text": "Inventive and visionary", "personality": "Innovator" }
+        }
+      },
+      {
+        "question": "What motivates you most?",
+        "options": {
+          "a": { "text": "Understanding how things work", "personality": "Thinker" },
+          "b": { "text": "Connecting with others", "personality": "Socialite" },
+          "c": { "text": "Exploring the unknown", "personality": "Adventurer" },
+          "d": { "text": "Creating something new", "personality": "Innovator" }
+        }
+      },
+      {
+        "question": "What’s your ideal vacation?",
+        "options": {
+          "a": { "text": "A museum tour in Europe", "personality": "Thinker" },
+          "b": { "text": "A beach resort with friends", "personality": "Socialite" },
+          "c": { "text": "Backpacking through mountains", "personality": "Adventurer" },
+          "d": { "text": "Tech convention or startup retreat", "personality": "Innovator" }
+        }
+      },
+      {
+        "question": "In a team project, you’re the one who...",
+        "options": {
+          "a": { "text": "Researches and organizes ideas", "personality": "Thinker" },
+          "b": { "text": "Brings the team together", "personality": "Socialite" },
+          "c": { "text": "Volunteers to take on any challenge", "personality": "Adventurer" },
+          "d": { "text": "Suggests new, out-of-the-box approaches", "personality": "Innovator" }
+        }
+      },
+      {
+        "question": "What’s your favorite type of hobby?",
+        "options": {
+          "a": { "text": "Puzzles or strategy games", "personality": "Thinker" },
+          "b": { "text": "Hosting events or parties", "personality": "Socialite" },
+          "c": { "text": "Extreme sports or travel", "personality": "Adventurer" },
+          "d": { "text": "Coding, building, or designing", "personality": "Innovator" }
+        }
+      }
+    
   ]
   

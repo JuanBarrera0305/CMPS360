@@ -1,0 +1,135 @@
+/* Base styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  /* Header */
+  .store-header {
+    background-color: #fff;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+  }
+  
+  .store-header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #222;
+  }
+  
+  .store-header p {
+    font-size: 1.1em;
+    color: #555;
+  }
+  
+  /* Navigation */
+  nav {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    text-align: center;
+  }
+  
+  .nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #007bff;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .nav-links a:hover {
+    color: #0056b3;
+  }
+  
+  /* Product Section */
+  .featured {
+    padding: 0 20px;
+    text-align: center;
+  }
+  
+  .product {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .product:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+  }
+  
+  .product h2.title {
+    margin-top: 0;
+    color: #222;
+  }
+  
+  .product p {
+    margin: 5px 0;
+    color: #444;
+  }
+  
+  /* About section */
+  .about {
+    background-color: #ffffff;
+    padding: 30px 20px;
+    margin: 40px auto;
+    max-width: 900px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #ffffff;
+    color: #666;
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #eaeaea;
+    margin-top: 40px;
+  }
+  
+  .btn-home {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-home:hover {
+    background-color: #0056b3;
+  }
+
+  .product-image {
+    width: 200px;        /* or any width you prefer */
+    height: 200px;       /* keeps all images square */
+    object-fit: cover;   /* crops the image to fit the box without distortion */
+    border-radius: 8px;  /* optional for rounded corners */
+  }
